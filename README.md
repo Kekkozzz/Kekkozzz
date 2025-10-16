@@ -72,7 +72,7 @@
 const francesco = {
     location: "Italy 🇮🇹",
     company: "Urban Labs S.p.A.",
-    role: "Frontend Developer",
+    role: "Team Leader & Full Stack Developer",
     code: ["JavaScript", "HTML", "CSS", "React"],
     currentFocus: "Building beautiful and functional web experiences",
     funFact: "I was a Rocket League professional player, now i'm just a coder ༼ つ ◕_◕ ༽つ",
