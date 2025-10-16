@@ -52,11 +52,10 @@
 
 <div align="center">
 
-[![ottica_fazio](https://github-readme-stats.vercel.app/api/pin/?username=Kekkozzz&repo=ottica_fazio&theme=radical&border_radius=10&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF&icon_color=FF6B35)](https://github.com/Kekkozzz/ottica_fazio)
-
-[![ReSpaVn](https://github-readme-stats.vercel.app/api/pin/?username=Kekkozzz&repo=ReSpaVn&theme=radical&border_radius=10&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF&icon_color=FF6B35)](https://github.com/Kekkozzz/ReSpaVn)
-
-[![Kekkoz Comp Curriculum](https://github-readme-stats.vercel.app/api/pin/?username=Kekkozzz&repo=Kekkoz_Comp_Curriculum&theme=radical&border_radius=10&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF&icon_color=FF6B35)](https://github.com/Kekkozzz/Kekkoz_Comp_Curriculum)
+| | |
+|:--:|:--:|
+| [![ottica_fazio](https://github-readme-stats.vercel.app/api/pin/?username=Kekkozzz&repo=ottica_fazio&theme=radical&border_radius=10&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF&icon_color=FF6B35)](https://github.com/Kekkozzz/ottica_fazio) | [![ReSpaVn](https://github-readme-stats.vercel.app/api/pin/?username=Kekkozzz&repo=ReSpaVn&theme=radical&border_radius=10&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF&icon_color=FF6B35)](https://github.com/Kekkozzz/ReSpaVn) |
+| [![presto.it](https://github-readme-stats.vercel.app/api/pin/?username=Kekkozzz&repo=presto.it&theme=radical&border_radius=10&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF&icon_color=FF6B35)](https://github.com/Kekkozzz/presto.it) | [![Kekkoz Comp Curriculum](https://github-readme-stats.vercel.app/api/pin/?username=Kekkozzz&repo=Kekkoz_Comp_Curriculum&theme=radical&border_radius=10&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF&icon_color=FF6B35)](https://github.com/Kekkozzz/Kekkoz_Comp_Curriculum) |
 
 </div>
 
