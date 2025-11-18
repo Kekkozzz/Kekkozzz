@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 🎨 Frontend Developer | 💡 Creative Coder | 🚀 Problem Solver
+### 🎨 Full Stack Developer | 💡 Creative Coder | 🚀 Problem Solver
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer;UI%2FUX+Enthusiast;JavaScript+%7C+React+Expert;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
