@@ -38,32 +38,6 @@
 </div>
 
 ---
-## 📊 GitHub Stats
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kekkozzz&layout=compact&theme=radical&border_radius=10&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF"/>
-</div>
-
----
-
-## 🎯 Featured Projects
-<div align="center">
-  
-[![ottica_fazio](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Kekkozzz&repo=ottica_fazio&theme=radical&border_radius=10&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF&icon_color=FF6B35)](https://github.com/Kekkozzz/ottica_fazio)
-[![TekInterview](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Kekkozzz&repo=Tek&theme=radical&border_radius=10&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF&icon_color=FF6B35)](https://github.com/Kekkozzz/Tek)
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  
-[![Francesco's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kekkozzz&theme=tokyo-night&bg_color=0D1117&color=FF6B35&line=FF6B35&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
 
 ## 💼 About Me
 
