@@ -76,12 +76,3 @@ const francesco = {
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=Kekkozzz&color=FF6B35&style=for-the-badge)
-
----
-
-⭐️ From [Kekkozzz](https://github.com/Kekkozzz) with 🧡
-
-</div>
