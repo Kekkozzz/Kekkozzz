@@ -1,4 +1,4 @@
-# 👋 Ciao, sono Francesco Romito
+# 👋 Ciao! I'am Francesco Romito
 
 <div align="center">
   
