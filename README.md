@@ -44,7 +44,6 @@
 ```javascript
 const francesco = {
     location: "Italy 🇮🇹",
-    company: "Urban Labs S.p.A.",
     role: "Full Stack Developer",
     currentFocus: "Building beautiful and functional web experiences",
     funFact: "I was a Rocket League professional player, now i'm just a coder ༼ つ ◕_◕ ༽つ",
